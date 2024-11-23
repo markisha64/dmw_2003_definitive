@@ -1,0 +1,9 @@
+[submodule "dmw2003NTSC"]
+	path = dmw2003NTSC
+	url = https://github.com/markisha64/dmw2003NTSC
+[submodule "dmw2003fixed_fields"]
+	path = dmw2003fixed_fields
+	url = https://github.com/markisha64/dmw2003fixed_fields
+[submodule "dmw2003improved_hp_proxy"]
+	path = dmw2003improved_hp_proxy
+	url = https://github.com/markisha64/dmw2003improved_hp_proxy
